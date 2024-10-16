@@ -22,9 +22,6 @@ Before becoming a full-stack engineer, I viewed myself as a **problem solver**, 
 [![Shah's GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 [![Shah's GitHub Commit Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shah743&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shah's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shah743&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shah743&layout=compact&theme=dracula&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Shah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shah743&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Let's Connect!
