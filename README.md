@@ -20,6 +20,7 @@ Before becoming a full-stack engineer, I viewed myself as a **problem solver**, 
 
 ## 📈 GitHub Stats:
 [![Shah's GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 [![Shah's GitHub Commit Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shah743&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shah743&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
