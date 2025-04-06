@@ -1,44 +1,61 @@
-# Hi there 👋 I'm Shah Zaib!
+# 👋 Hello, I'm Shah Zaib!
 
-I'm a **Full-Stack Developer** specializing in **Ruby on Rails**, **JavaScript**, **Hotwire**, and **Stimulus**, with a passion for **AI-driven innovation**. I love building **next-gen web applications** that make a real-world impact, especially in industries like **healthcare** and **e-commerce**.
+**Full-Stack Developer | AI Innovator | Ruby on Rails & JavaScript Specialist**  
+Building scalable, AI-powered web solutions that transform industries.  
 
-## 🛠️ Technologies & Tools I Work With:
-![Technologies](https://skillicons.dev/icons?i=html,css,sass,js,ts,ruby,rails,react,vue,nodejs,mysql,postgres,aws,gcp,heroku,git,figma&perline=9)
+🔹 **10+ years** crafting high-impact applications in **e-commerce, healthcare, and fintech**  
+🔹 **AI-driven** problem solver: text/video processing, chatbots, and real-time systems  
+🔹 **Cloud-native** developer (AWS, GCP, Azure) with a security-first mindset  
 
-```html
-ruby, ruby on rails, javascript, hotwire, stimulus, react, vue, nodejs, 
-postgresql, mysql, mongodb, aws, gcp, heroku, digitalocean, ai, machine learning
+## 🛠 Tech Stack  
+
+### **Core Expertise**  
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby&logoColor=white)
+![Hotwire](https://img.shields.io/badge/-Hotwire-00C7B7?logo=hotwire&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+```ruby
+# What I build with:
+- Backend: Ruby on Rails, Node.js, PostgreSQL, GraphQL
+- Frontend: React/Vue, Hotwire, TailwindCSS  
+- AI/ML: OpenAI, Whisper, Embeddings, Document QA
+- Cloud: AWS (Lambda, EC2), GCP, Docker, Kubernetes
 ```
 
-## 🚀 What I Do:
-- **AI-based Solutions**: Designing and building self-hosted, AI-driven platforms.
-- **Full-Stack Web Development**: Implementing scalable, secure, and efficient solutions for e-commerce, APIs, and real-time web applications.
-- **Ruby on Rails Ecosystem**: Expert in building dynamic, maintainable, and robust applications.
-- **Cloud Deployment**: Deploying apps using **AWS**, **Google Cloud**, and **Heroku** with a focus on scalability and security.
+### **Featured Projects**  
+⚡ **AI Document Analyzer** – NLP-powered PDF/Video QA system  
+⚡ **Real-Time Healthcare Chatbot** – HIPAA-compliant with Twilio integration  
+⚡ **E-Commerce Accelerator** – Rails + React PWA with AI-driven recommendations  
 
-Before becoming a full-stack engineer, I viewed myself as a **problem solver**, diving into unique challenges to create practical, impactful solutions. With **over 10 years of experience**, I have now mastered the **Ruby on Rails ecosystem** and integrated **AI** into **healthcare** and **e-commerce** applications to deliver cutting-edge solutions.
+## 🚀 Recent Highlights  
+- Built a **self-hosted LLM platform** for confidential enterprise data  
+- Scaled a Rails API to **10K+ RPS** using Redis & horizontal scaling  
+- Trained a **custom speech-to-SQL** model for database analytics  
 
-## 📈 GitHub Stats:
-[![Shah's GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+## 📊 Open-Source Activity  
 
-[![Shah's GitHub Commit Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shah743&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=nightowl&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shah743&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Shah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shah743&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🤝 Let’s Collaborate!  
 
-## 🤝 Let's Connect!
-- 💻 **Portfolio/Projects**: [GitHub](https://github.com/shah743)
-- 👔 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shahzaibfullstack/)
-- 📧 **Email**: [shahzaib_khw@hotmail.com](mailto:shahzaib_khw@hotmail.com)
+I’m passionate about:  
+- **AI/ML integrations** for existing applications  
+- **Startup tech consulting** (MVP → Scale)  
+- **Performance tuning** Rails/JS applications  
+
+📫 Reach me at:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/shahzaibfullstack) 
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:shahzaib_khw@hotmail.com)
 
 ---
 
-### ✨ Fun Fact:
-I love to explore how AI can solve real-world problems. When I'm not coding, you'll find me researching **AI**, **machine learning**, or diving into entrepreneurial opportunities in the tech space.
+### 💡 Philosophy  
+> *"Great code solves problems—except when it creates new ones to solve. Then it’s* **art** *."*  
+
+🔗 **Portfolio**: [shah743.github.io](https://shah743.github.io) (WIP)  
 
 ---
 
-### 📝 Random Nerd Joke:
-> **Q.** What did JavaScript call its son?  
-> **A.** JSON!
-
-Thanks for visiting my profile! Feel free to reach out if you want to chat about **web development**, **AI**, or **startup ideas**.
+**P.S.** Need a **Rails + AI prototype** built in 72 hours? Let’s talk! 🚀  
