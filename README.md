@@ -1,61 +1,66 @@
 # 👋 Hello, I'm Shah Zaib!
 
-**Full-Stack Developer | AI Innovator | Ruby on Rails & JavaScript Specialist**  
-Building scalable, AI-powered web solutions that transform industries.  
+**Transformational Full-Stack Developer | AI Technologist**  
+Building secure, scalable applications with cutting-edge AI integrations  
 
-🔹 **10+ years** crafting high-impact applications in **e-commerce, healthcare, and fintech**  
-🔹 **AI-driven** problem solver: text/video processing, chatbots, and real-time systems  
-🔹 **Cloud-native** developer (AWS, GCP, Azure) with a security-first mindset  
+🔹 **10+ years** delivering high-impact solutions across **healthcare, e-commerce, and sports tech**  
+🔹 **AI specialist** in text/image/video processing, speech recognition, and document QA  
+🔹 **Cloud architect** with expertise in AWS, GCP, and Azure deployments  
 
 ## 🛠 Tech Stack  
 
 ### **Core Expertise**  
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby&logoColor=white)
 ![Hotwire](https://img.shields.io/badge/-Hotwire-00C7B7?logo=hotwire&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/-AI-FF6F00?logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 ```ruby
-# What I build with:
-- Backend: Ruby on Rails, Node.js, PostgreSQL, GraphQL
-- Frontend: React/Vue, Hotwire, TailwindCSS  
-- AI/ML: OpenAI, Whisper, Embeddings, Document QA
-- Cloud: AWS (Lambda, EC2), GCP, Docker, Kubernetes
+# My Development Toolkit:
+- Backend: Ruby on Rails, Python, PostgreSQL, GraphQL, WebSocket
+- Frontend: React/Vue, Stimulus, TailwindCSS, Bootstrap  
+- AI/ML: Whisper, Embeddings, Text-to-SQL, Document Parsing
+- Cloud: AWS (EC2/Lambda), GCP, Azure, Docker, Kubernetes
+- APIs: Twilio, Auth0, Fitbit, Strava, REST/GraphQL
 ```
 
 ### **Featured Projects**  
-⚡ **AI Document Analyzer** – NLP-powered PDF/Video QA system  
-⚡ **Real-Time Healthcare Chatbot** – HIPAA-compliant with Twilio integration  
-⚡ **E-Commerce Accelerator** – Rails + React PWA with AI-driven recommendations  
+⚡ **Intellecta.app** - AI-powered educational tools for modern classrooms  
+⚡ **Tendable** - Healthcare quality assurance platform  
+⚡ **DB Designer** - Visual database schema modeling tool  
+⚡ **MySportsbook** - Africa's premier sports networking platform  
+⚡ **ChatToAPotato** - Anonymous mental health support system  
 
-## 🚀 Recent Highlights  
-- Built a **self-hosted LLM platform** for confidential enterprise data  
-- Scaled a Rails API to **10K+ RPS** using Redis & horizontal scaling  
-- Trained a **custom speech-to-SQL** model for database analytics  
+## 🚀 Recent Achievements  
+- Developed **AI-driven document analysis** with 95% accuracy for enterprise clients   
+- Created **self-service database design tool** used by **100K+ developers**  
+- Engineered real-time sports platform handling **50K+ concurrent users** 
+- Optimized Rails applications achieving **<100ms response times** at scale  
 
-## 📊 Open-Source Activity  
+## 📊 Development Activity  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=nightowl&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shah743&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-## 🤝 Let’s Collaborate!  
+## 🤝 Collaboration Opportunities  
 
-I’m passionate about:  
-- **AI/ML integrations** for existing applications  
-- **Startup tech consulting** (MVP → Scale)  
-- **Performance tuning** Rails/JS applications  
+I'm excited about:  
+- **AI-powered SaaS products** with real-world impact  
+- **High-performance web applications** needing scaling expertise  
+- **Innovative startups** requiring full-stack architecture  
 
-📫 Reach me at:  
+📫 Let's connect:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/shahzaibfullstack) 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:shahzaib_khw@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/shah743)
 
 ---
 
-### 💡 Philosophy  
-> *"Great code solves problems—except when it creates new ones to solve. Then it’s* **art** *."*  
+### 💡 Development Philosophy  
+> *"The best solutions emerge when technical excellence meets deep understanding of human needs."*  
 
-🔗 **Portfolio**: [shah743.github.io](https://shah743.github.io) (WIP)  
+🔗 **Explore my work**: [shah743.github.io](https://shah743.github.io)  
 
 ---
 
-**P.S.** Need a **Rails + AI prototype** built in 72 hours? Let’s talk! 🚀  
+**P.S.** Need to **prototype an AI-enhanced web app** quickly? I can help go from concept to MVP in days! 🚀
