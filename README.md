@@ -1,11 +1,13 @@
 # 👋 Hello, I'm Shah Zaib!
 
-**Transformational Full-Stack Developer | AI Technologist**  
-Building secure, scalable applications with cutting-edge AI integrations  
+**Senior Full-Stack Engineer & AI Technologist**  
+Building production-grade SaaS platforms with intelligent, real-time, and AI-first experiences.
 
-🔹 **10+ years** delivering high-impact solutions across **healthcare, e-commerce, and sports tech**  
-🔹 **AI specialist** in text/image/video processing, speech recognition, and document QA  
-🔹 **Cloud architect** with expertise in AWS, GCP, and Azure deployments  
+🔹 **10+ years** designing and shipping full-stack solutions across **education, healthcare, mobility, and sports tech**  
+🔹 **AI specialist** in LLM apps, text/image/video processing, speech recognition, and document automation  
+🔹 **Cloud-focused engineer** with hands-on experience in AWS, DigitalOcean, and containerized deployments  
+
+---
 
 ## 🛠 Tech Stack  
 
@@ -16,51 +18,96 @@ Building secure, scalable applications with cutting-edge AI integrations
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 ```ruby
-# My Development Toolkit:
-- Backend: Ruby on Rails, Python, PostgreSQL, GraphQL, WebSocket
-- Frontend: React/Vue, Stimulus, TailwindCSS, Bootstrap  
-- AI/ML: Whisper, Embeddings, Text-to-SQL, Document Parsing
-- Cloud: AWS (EC2/Lambda), GCP, Azure, Docker, Kubernetes
-- APIs: Twilio, Auth0, Fitbit, Strava, REST/GraphQL
-```
+# My Development Toolkit
 
-### **Featured Projects**  
-⚡ **Intellecta.app** - AI-powered educational tools for modern classrooms  
-⚡ **Tendable** - Healthcare quality assurance platform  
-⚡ **DB Designer** - Visual database schema modeling tool  
-⚡ **MySportsbook** - Africa's premier sports networking platform  
-⚡ **ChatToAPotato** - Anonymous mental health support system  
+Backend:
+- Ruby on Rails (7/8), Ruby, Python
+- PostgreSQL, Redis, Sidekiq, WebSockets, REST/GraphQL APIs
 
-## 🚀 Recent Achievements  
-- Developed **AI-driven document analysis** with 95% accuracy for enterprise clients   
-- Created **self-service database design tool** used by **100K+ developers**  
-- Engineered real-time sports platform handling **50K+ concurrent users** 
-- Optimized Rails applications achieving **<100ms response times** at scale  
+Frontend:
+- Hotwire (Turbo / Stimulus), Vue 3, React
+- Tailwind CSS, Bootstrap, Responsive UI/UX
 
-## 📊 Development Activity  
+AI / ML:
+- OpenAI (LLMs, embeddings, tools), Whisper
+- Text / image / video processing, text-to-SQL
+- Semantic search, document parsing & automation
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shah743&theme=nightowl&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shah743&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+Cloud & DevOps:
+- AWS (ECS, ECR, S3, ElastiCache), DigitalOcean
+- Docker, CI/CD with GitHub Actions, Nginx
 
-## 🤝 Collaboration Opportunities  
+Integrations:
+- Stripe, Twilio, Firebase (FCM), Google Cloud APIs (Slides, Drive, Vision, Speech)
+- OAuth 2.0, JWT, webhooks, 3rd-party SaaS APIs
+````
 
-I'm excited about:  
-- **AI-powered SaaS products** with real-world impact  
-- **High-performance web applications** needing scaling expertise  
-- **Innovative startups** requiring full-stack architecture  
+---
 
-📫 Let's connect:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/shahzaibfullstack) 
+## ⭐ Featured Projects
+
+⚡ **[Intellecta.app](#)** – AI-powered education platform for teachers
+
+> 5E lesson plan generator, worksheet builder, MCQ assessments, math solver, and IELTS tools – built with Rails, Hotwire, and deep AI integrations (OpenAI + Google Cloud).
+
+⚡ **DB Designer** – Visual database schema design & collaboration
+
+> Real-time ERD modeling, multi-database support, team collaboration, and subscription billing for engineering teams.
+
+⚡ **Person.care** – Online counseling & health coaching platform
+
+> Secure video sessions, messaging, scheduling, and AI-assisted workflows for therapists and clients, deployed on AWS with Rails 8.
+
+⚡ **MySportsbook** – Africa’s sports networking platform
+
+> Connects athletes, coaches, fans, and federations with real-time engagement and video-based talent discovery.
+
+⚡ **ChatToAPotato** – Anonymous mental health support
+
+> Friendly “potato” avatar chat experience connecting users to real counselors for emotional support.
+
+⚡ **Tendable** – Healthcare quality & compliance tooling
+
+> Contributed to quality assurance features used by health and care professionals to monitor and improve care standards.
+
+---
+
+## 🚀 Recent Highlights
+
+* Built **AI-first education tooling (Intellecta.app)** to automate lesson planning, assessments, and content creation for modern classrooms.
+* Evolved **DB Designer** into a full-stack, real-time schema collaboration platform with multi-database and multi-language support.
+* Shipped **Person.care**, a secure counseling platform leveraging AWS (ECS/ECR/S3, Chime, Transcribe) and AI integrations to support therapists and clients.
+* Designed and optimized Rails applications with **snappy UX, real-time updates, and scalable architectures** using Redis, Sidekiq, and WebSockets.
+
+---
+
+## 📊 Development Activity
+
+Some public GitHub stats (private client work not included):
+
+<div style="display:flex;flex-flow:row wrap;justify-content:center;align-items:center">
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shah743&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shah743&theme=github_dark"/></a>
+  </div>
+
+---
+
+## 🤝 Collaboration Opportunities
+
+I’m especially interested in working on:
+
+* **AI-powered SaaS products** with real users and real impact
+* **Rails / Hotwire platforms** that need new features or serious refactoring & scaling
+* **Early-stage startups** that need an end-to-end product engineer (from idea → architecture → shipped MVP)
+
+📫 Let’s connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/shahzaibfullstack)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:shahzaib_khw@hotmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/shah743)
 
 ---
 
-### 💡 Development Philosophy  
-> *"The best solutions emerge when technical excellence meets deep understanding of human needs."*  
+### 💡 Development Philosophy
 
-🔗 **Explore my work**: [shah743.github.io](https://shah743.github.io)  
+> *"The best solutions emerge when technical excellence meets a deep understanding of human needs."*
 
----
-
-**P.S.** Need to **prototype an AI-enhanced web app** quickly? I can help go from concept to MVP in days! 🚀
+🔗 **Explore my work**: [shah743.github.io](https://shah743.github.io)
